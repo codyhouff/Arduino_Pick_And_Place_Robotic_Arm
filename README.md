@@ -58,7 +58,7 @@ num_examples: 972	# num of training images in the images/train folder after gene
 # Results
 
 <p align="center">
-  <img width="700" img src="for_readme/mindstorms_pic.jpg">
+  <img width="700" img src="for_readme/robot project_trim_Trim_smaller_min.gif">
 </p>
 
 # Outlook
