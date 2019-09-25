@@ -65,10 +65,10 @@ Calibrated an optional light sensor that can tell the color of the objects it is
 
 # 3. IR Range Sensor
 Used an IR Range Sensor to detect where each object is.
-```
-num_examples: 972	# num of training images in the images/train folder after generating the images
-```
 
+<p align="center">
+  <img width="200" img src="for_readme/Infrared_Range_Sensor2.jpg">
+</p>
 
 # Results
 
