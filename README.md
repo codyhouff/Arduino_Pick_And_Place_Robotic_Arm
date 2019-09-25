@@ -42,11 +42,26 @@ We reversed engineered the Mindstorms NXT using an oscilloscope and made it work
 </p>
 
 ### Motors
+Calibrated an NXT motor to work with the arduino.
+
+<p align="center">
+  <img width="400" img src="for_readme/nxt_motor1.jpg">
+</p>
 
 ### Touch Sensors
+Calibrated an NXT touch sensor to work with the arduino.
+
+<p align="center">
+  <img width="400" img src="for_readme/NXT_Touch_sensor.png">
+</p>
 
 ### (Optional) Light Sensor from NXT
 Calibrated an optional light sensor that can tell the color of the objects it is about to pick up.
+
+<p align="center">
+  <img width="400" img src="for_readme/NXT_light_sensor.png">
+</p>
+
 
 # 3. IR Range Sensor
 Used an IR Range Sensor to detect where each object is.
