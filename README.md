@@ -47,14 +47,14 @@ Reverse engineered and calibrated an NXT motor to work with the arduino.
 </p>
 
 ### Touch Sensors
-reverse engineered and calibrated an NXT touch sensor to work with the arduino.
+Reverse engineered and calibrated an NXT touch sensor to work with the arduino.
 
 <p align="center">
   <img width="200" img src="for_readme/NXT_Touch_sensor.png">
 </p>
 
 ### (Optional) Light Sensor from NXT
-reverse engineered and calibrated an optional light sensor that can tell the color of the objects it is about to pick up.
+Reverse engineered and calibrated an optional light sensor that can tell the color of the objects it is about to pick up.
 
 <p align="center">
   <img width="200" img src="for_readme/NXT_light_sensor.png">
