@@ -12,16 +12,14 @@ This was for a Mechatronics project. Me and my partner could create anything, we
 
 1. Circuit
 2. Mindstroms NXT
-3. Train 
-4. Tensorboard
-5. Export inference graph
-6. Run Model on Images in Jupyter Notebook
-7. Run Model on Webcam 
+3. IR Range Sensor 
+4. Results
+ 
 
 
 
 # 1. Circuit
-Generates artificial training images and a csv file that contains the bounding box location and the class of the object. Also Variance is added to each image, this is to make the model more robust and able to handle images with poor lighting or bad angles.
+The main circuits we will use are H bridges, a multiplexer, an inverter, and an amplifier. The H bridges will be used to protect the Arduino. The multiplexer will be used to choose one of the three motors to send the pwm signals. The multiplexer inverted the signals so we had to also use an inverter to get the correct signals. We will have to hook up the circuit to a power supply to power the motors since they run on nine volts. 
 
 <p align="center">
   <img width="400" img src="for_readme/robot_project_pic_4.png">
@@ -76,7 +74,7 @@ Calibrated and used an IR Range Sensor to detect where each object is.
   <img width="700" img src="for_readme/robot project_trim_Trim_smaller_min.gif">
 </p>
 
-# Outlook
+
 
 For further questions please refer to my LinkedIn profile or contact me here on GitHub. 
 
