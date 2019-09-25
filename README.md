@@ -70,7 +70,7 @@ Used an IR Range Sensor to detect where each object is.
   <img width="200" img src="for_readme/Infrared_Range_Sensor2.jpg">
 </p>
 
-# Results
+# 4. Results
 
 <p align="center">
   <img width="700" img src="for_readme/robot project_trim_Trim_smaller_min.gif">
