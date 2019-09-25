@@ -6,7 +6,7 @@ Designed and programmed (in C++) a pick and place robot using an Arduino, sensor
 </p>
 
 # Motivation
-This was for a Mechatronics project. Me and my partner could create anything, we weren't allowed to use most of the built in functions in the Arduino IDE so we could learn how to write code that will work directly with microprocessors. We ambitiously chose to Design and program (in C++) a pick and place robot using an Arduino, sensors, circuits, and reverse engineered a Mindstorms NXT kit using an Oscilloscope 
+This was for a Mechatronics project. Me and my partner could create anything, we weren't allowed to use most of the built in functions in the Arduino IDE so we could learn how to write code that will work directly with microprocessors. We ambitiously chose to Design and program (in C++) a pick and place robot using an Arduino, sensors, circuits, and reverse engineer a Mindstorms NXT kit using an Oscilloscope 
 
 # Table of Contents
 
@@ -41,22 +41,18 @@ We reversed engineered the Mindstorms NXT using an oscilloscope and made it work
   <img width="400" img src="for_readme/mindstorms_pic.jpg">
 </p>
 
+### Motors
 
-# 3. Train
-Takes the train.record, test.record, train images, the config file, the pbtxt file, the model and saves checkpoints in a folder in training. One of these checkpoints will be chosen to create the inference graph. 
+### Touch Sensors
 
-Don't forget to change the num_examples to the number of images in the images/train folder.
+### (Optional) Light Sensor from NXT
+Calibrated an optional light sensor that can tell the color of the objects it is about to pick up.
+
+# 3. IR Range Sensor
+Used an IR Range Sensor to detect where each object is.
 ```
 num_examples: 972	# num of training images in the images/train folder after generating the images
 ```
-
-# 4. Tensorboard
-Click on the _4_tensorboard.py file to open tensorboard and visualize the data. Look at the Total loss.
-
-<p align="center">
-  <img width="700" img src="results/images_for_readme/graph_tensorboard2.JPG">
-</p>
-
 
 
 # Results
