@@ -62,7 +62,7 @@ Reverse engineered and calibrated an optional light sensor that can tell the col
 
 
 # 3. IR Range Sensor
-Calibrated and used an IR Range Sensor to detect where each object is.
+Calibrated and used an IR Range Sensor to detect where each object is. The ATD h file handles this.
 
 <p align="center">
   <img width="200" img src="for_readme/Infrared_Range_Sensor2.jpg">
