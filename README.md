@@ -27,7 +27,7 @@ The main circuits we will use are H bridges, a multiplexer, an inverter, and an 
 </p>
 
 ### Circuit Design
-
+We used Logisim to test the circuit design. 
 <p align="center">
   <img width="600" img src="for_readme/Motor_Driver_and_Interupt_Circuit.png">
 </p>
