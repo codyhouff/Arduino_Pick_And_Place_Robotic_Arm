@@ -73,7 +73,7 @@ Calibrated and used an IR Range Sensor to detect where each object is. The ATD.h
 The light sensor, range sensor, touch sensors, and three servo motors all eventually came back to the Arduino. We used PWM signals to control the servo motors.
 
 <p align="center">
-  <img width="200" img src="for_readme/arduino_mega.jpg">
+  <img width="400" img src="for_readme/arduino_mega.jpg">
 </p>
 
 # 5. Results
