@@ -41,7 +41,7 @@ We reversed engineered the Mindstorms NXT using an oscilloscope and made it work
 </p>
 
 ### Motors
-Reverse engineered and calibrated an NXT motor to work with the arduino.
+Reverse engineered and calibrated an NXT motor to work with the arduino. We used PWM signals to control the three servo motors.
 
 <p align="center">
   <img width="200" img src="for_readme/nxt_motor1.jpg">
