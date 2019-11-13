@@ -12,7 +12,8 @@ This was for a Mechatronics project. Me and my partner could create anything, we
 
 1. Circuit
 2. Mindstroms NXT
-3. IR Range Sensor 
+3. IR Range Sensor
+4. Arduino Mega
 4. Results
  
 
@@ -68,7 +69,14 @@ Calibrated and used an IR Range Sensor to detect where each object is. The ATD.h
   <img width="200" img src="for_readme/Infrared_Range_Sensor2.jpg">
 </p>
 
-# 4. Results
+# 4. Arduino Mega
+The light sensor, range sensor, touch sensors, and three servo motors all eventually came back to the Arduino. We used PWM signals to control the servo motors.
+
+<p align="center">
+  <img width="200" img src="for_readme/arduino_mega.jpg">
+</p>
+
+# 5. Results
 
 <p align="center">
   <img width="700" img src="for_readme/robot project_trim_Trim_smaller_min.gif">
