@@ -1,5 +1,5 @@
 # Arduino Pick and Place Robotic Arm 
-Designed and programmed (in C++) a pick and place robot using an Arduino, sensors, circuits, and reverse engineered a Mindstorms NXT kit using an Oscilloscope
+Designed and embedding programmed a pick and place robot using an Arduino, sensors, circuits, and reverse engineered a Mindstorms NXT kit
 
 <p align="center">
   <img width="700" img src="for_readme/robot_project_pic_1.jpg">
