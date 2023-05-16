@@ -1,5 +1,5 @@
 # Arduino Pick and Place Robotic Arm 
-Developed and implemented embedded programming for a pick-and-place robot utilizing an Arduino, sensors, and circuits, while repurposing components from a Mindstorms NXT kit.
+Reverse engineered Mindstorms NXT sensors, and servo motors to work with a microcontoller. Developed and implemented embedded programming for the pick-and-place robot utilizing the micocontroller. Built a circuit to allow the microcontroller to interact with the servo motors.
 
 <p align="center">
   <img width="700" img src="for_readme/robot_project_pic_1.jpg">
